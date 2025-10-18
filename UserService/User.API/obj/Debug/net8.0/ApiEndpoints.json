@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "User.API.Controllers.UserController",
+    "Method": "GetAdminData",
+    "RelativePath": "api/User/admin-only",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User.API.Controllers.UserController",
+    "Method": "GetProfile",
+    "RelativePath": "api/User/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

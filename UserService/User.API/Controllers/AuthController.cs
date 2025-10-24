@@ -35,10 +35,7 @@ namespace User.API.Controllers
             }
         }
 
-        public IAuthService Get_authService()
-        {
-            return _authService;
-        }
+    
 
         [HttpPost("login")]
         public async Task<IActionResult> Login(LoginRequest loginRequest, IAuthService _authService)

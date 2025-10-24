@@ -53,7 +53,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseAuthentication(); 
 app.UseAuthorization();
@@ -61,6 +61,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 
-await app.UseOcelot(); //cai nay chay cuoi cung
+await app.UseOcelot(); 
 
 app.Run();

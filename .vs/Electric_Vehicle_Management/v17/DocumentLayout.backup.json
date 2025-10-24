@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\apiservice\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|solutionrelative:apiservice\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0AC677-C6BD-97D8-C711-A83E20272AB6}|UserService\\User.Domain\\User.Domain.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0AC677-C6BD-97D8-C711-A83E20272AB6}|UserService\\User.Domain\\User.Domain.csproj|solutionrelative:userservice\\user.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA32412-9271-BF93-CE21-8B480EC0BA73}|UserService\\User.Application\\User.Application.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.application\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA32412-9271-BF93-CE21-8B480EC0BA73}|UserService\\User.Application\\User.Application.csproj|solutionrelative:userservice\\user.application\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9AA32412-9271-BF93-CE21-8B480EC0BA73}|UserService\\User.Application\\User.Application.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.application\\irepositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AA32412-9271-BF93-CE21-8B480EC0BA73}|UserService\\User.Application\\User.Application.csproj|solutionrelative:userservice\\user.application\\irepositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AA32412-9271-BF93-CE21-8B480EC0BA73}|UserService\\User.Application\\User.Application.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.application\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AA32412-9271-BF93-CE21-8B480EC0BA73}|UserService\\User.Application\\User.Application.csproj|solutionrelative:userservice\\user.application\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AA32412-9271-BF93-CE21-8B480EC0BA73}|UserService\\User.Application\\User.Application.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.application\\irepositories\\iunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,18 +107,6 @@
       "RelativeMoniker": "D:0:0:{9FFD6C91-0275-29E0-A9CA-F7446BFB605C}|UserService\\User.Infrastructure\\User.Infrastructure.csproj|solutionrelative:userservice\\user.infrastructure\\user.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\properties\\servicedependencies\\userserviceapicuongpc - zip deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\properties\\servicedependencies\\userserviceapicuongpc - zip deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -115,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|solutionrelative:apiservice\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\apiservice\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|solutionrelative:apiservice\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\apiservice\\apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|solutionrelative:apiservice\\apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -131,16 +139,8 @@
       "RelativeMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|solutionrelative:apiservice\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE0AC677-C6BD-97D8-C711-A83E20272AB6}|UserService\\User.Domain\\User.Domain.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0AC677-C6BD-97D8-C711-A83E20272AB6}|UserService\\User.Domain\\User.Domain.csproj|solutionrelative:userservice\\user.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\apiservice\\apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{4D775768-5C08-4B0D-8700-E59D5FD5D99A}|APIService\\APIGateway\\APIGateway.csproj|solutionrelative:apiservice\\apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|e:\\fpt_university_prm392\\project\\backend\\electric_vehicle_management\\userservice\\user.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64DD6E34-CB65-DB14-5D9A-1D7D59E52628}|UserService\\User.API\\User.API.csproj|solutionrelative:userservice\\user.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,291 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Implements\\AuthService.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\Services\\Implements\\AuthService.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Implements\\AuthService.cs*",
-              "RelativeToolTip": "UserService\\User.Application\\Services\\Implements\\AuthService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T06:38:02.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\Services\\Interfaces\\IAuthService.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Interfaces\\IAuthService.cs*",
-              "RelativeToolTip": "UserService\\User.Application\\Services\\Interfaces\\IAuthService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T06:38:04.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IRoleService.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Interfaces\\IRoleService.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\Services\\Interfaces\\IRoleService.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Interfaces\\IRoleService.cs",
-              "RelativeToolTip": "UserService\\User.Application\\Services\\Interfaces\\IRoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAATAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "UserService\\User.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAzwBMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:46:11.335Z",
+              "WhenOpened": "2025-10-22T08:59:26.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Implements\\RoleService.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\Services\\Implements\\RoleService.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Implements\\RoleService.cs",
-              "RelativeToolTip": "UserService\\User.Application\\Services\\Implements\\RoleService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:47:59.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRoleRepository.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IRoleRepository.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\IRepositories\\IRoleRepository.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IRoleRepository.cs",
-              "RelativeToolTip": "UserService\\User.Application\\IRepositories\\IRoleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:44:52.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoleRepository.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Repositories\\RoleRepository.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Repositories\\RoleRepository.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Repositories\\RoleRepository.cs*",
-              "RelativeToolTip": "UserService\\User.Infrastructure\\Repositories\\RoleRepository.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:48:32.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "UserService\\User.API\\Controllers\\RoleController.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "UserService\\User.API\\Controllers\\RoleController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBMAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:58:25.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Program.cs",
-              "RelativeDocumentMoniker": "UserService\\User.API\\Program.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Program.cs*",
-              "RelativeToolTip": "UserService\\User.API\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T06:39:16.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "UserService\\User.API\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\AuthController.cs*",
-              "RelativeToolTip": "UserService\\User.API\\Controllers\\AuthController.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T06:21:42.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthDTOs.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\DTOs\\AuthDTOs.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\DTOs\\AuthDTOs.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\DTOs\\AuthDTOs.cs*",
-              "RelativeToolTip": "UserService\\User.Application\\DTOs\\AuthDTOs.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAA6wBkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T06:23:28.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUnitOfWorkRepository.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IUnitOfWorkRepository.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\IRepositories\\IUnitOfWorkRepository.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IUnitOfWorkRepository.cs",
-              "RelativeToolTip": "UserService\\User.Application\\IRepositories\\IUnitOfWorkRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:24:25.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\IRepositories\\IUserRepository.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IUserRepository.cs",
-              "RelativeToolTip": "UserService\\User.Application\\IRepositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:24:26.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IJwtTokenGenerator.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IJwtTokenGenerator.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\IRepositories\\IJwtTokenGenerator.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IJwtTokenGenerator.cs",
-              "RelativeToolTip": "UserService\\User.Application\\IRepositories\\IJwtTokenGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:47:02.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "UserService\\User.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:24:42.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserDbContext.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Persistences\\UserDbContext.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Persistences\\UserDbContext.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Persistences\\UserDbContext.cs",
-              "RelativeToolTip": "UserService\\User.Infrastructure\\Persistences\\UserDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:22:17.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserDbContextModelSnapshot.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Migrations\\UserDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Migrations\\UserDbContextModelSnapshot.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Migrations\\UserDbContextModelSnapshot.cs",
-              "RelativeToolTip": "UserService\\User.Infrastructure\\Migrations\\UserDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:54:08.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20251017121347_InitialCreate.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Migrations\\20251017121347_InitialCreate.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Migrations\\20251017121347_InitialCreate.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Migrations\\20251017121347_InitialCreate.cs",
-              "RelativeToolTip": "UserService\\User.Infrastructure\\Migrations\\20251017121347_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:53:39.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "JwtTokenGenerator.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Authentications\\JwtTokenGenerator.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Authentications\\JwtTokenGenerator.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Authentications\\JwtTokenGenerator.cs",
-              "RelativeToolTip": "UserService\\User.Infrastructure\\Authentications\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T07:24:31.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "User.API.csproj",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\User.API.csproj",
-              "RelativeDocumentMoniker": "UserService\\User.API\\User.API.csproj",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\User.API.csproj",
-              "RelativeToolTip": "UserService\\User.API\\User.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-20T07:07:49.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "User.Infrastructure.csproj",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\User.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\User.Infrastructure.csproj",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\User.Infrastructure.csproj",
-              "RelativeToolTip": "UserService\\User.Infrastructure\\User.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-22T09:27:16.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RoleDTO.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\DTOs\\RoleDTO.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Application\\DTOs\\RoleDTO.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\DTOs\\RoleDTO.cs",
-              "RelativeToolTip": "UserService\\User.Application\\DTOs\\RoleDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:39:24.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\ocelot.json",
-              "RelativeDocumentMoniker": "APIService\\APIGateway\\ocelot.json",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\ocelot.json",
-              "RelativeToolTip": "APIService\\APIGateway\\ocelot.json",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-20T06:43:47.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UserService\\User.API\\Properties\\launchSettings.json",
@@ -463,57 +192,324 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\Program.cs",
-              "RelativeDocumentMoniker": "APIService\\APIGateway\\Program.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\Program.cs",
-              "RelativeToolTip": "APIService\\APIGateway\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Implements\\RoleService.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\Services\\Implements\\RoleService.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Implements\\RoleService.cs",
+              "RelativeToolTip": "UserService\\User.Application\\Services\\Implements\\RoleService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:58:22Z"
+              "WhenOpened": "2025-10-20T08:47:59.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "UserService\\User.Domain\\Entities\\User.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "UserService\\User.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "UserService\\User.Application\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:59:26.703Z"
+              "WhenOpened": "2025-10-20T08:46:11.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\appsettings.json",
-              "RelativeDocumentMoniker": "UserService\\User.API\\appsettings.json",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\appsettings.json",
-              "RelativeToolTip": "UserService\\User.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-20T07:03:19.988Z",
+              "DocumentIndex": 4,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "UserService\\User.API\\Controllers\\HealthController.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "UserService\\User.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:21:45.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "UserService\\User.API\\appsettings.Development.json",
               "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\appsettings.Development.json",
               "RelativeToolTip": "UserService\\User.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-22T09:27:24.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\User.API\\appsettings.json",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\appsettings.json",
+              "RelativeToolTip": "UserService\\User.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T07:03:19.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIService\\APIGateway\\Program.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIService\\APIGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:58:22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserService\\User.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "UserService\\User.API\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:21:42.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWorkRepository.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IUnitOfWorkRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\IRepositories\\IUnitOfWorkRepository.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IUnitOfWorkRepository.cs",
+              "RelativeToolTip": "UserService\\User.Application\\IRepositories\\IUnitOfWorkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:24:25.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthDTOs.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\DTOs\\AuthDTOs.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\DTOs\\AuthDTOs.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\DTOs\\AuthDTOs.cs",
+              "RelativeToolTip": "UserService\\User.Application\\DTOs\\AuthDTOs.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:23:28.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\User.API\\Program.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Program.cs",
+              "RelativeToolTip": "UserService\\User.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:39:16.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "UserService\\User.API\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "UserService\\User.API\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:58:25.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "UserService\\User.Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:48:32.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\IRepositories\\IRoleRepository.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IRoleRepository.cs",
+              "RelativeToolTip": "UserService\\User.Application\\IRepositories\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:44:52.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "UserService\\User.Application\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vwwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:38:04.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Implements\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\Services\\Implements\\AuthService.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\Services\\Implements\\AuthService.cs",
+              "RelativeToolTip": "UserService\\User.Application\\Services\\Implements\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:38:02.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "UserService\\User.Application\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:24:26.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\IRepositories\\IJwtTokenGenerator.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\IRepositories\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "UserService\\User.Application\\IRepositories\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:47:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UserService\\User.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:24:42.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Persistences\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Persistences\\UserDbContext.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Persistences\\UserDbContext.cs",
+              "RelativeToolTip": "UserService\\User.Infrastructure\\Persistences\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:22:17.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Migrations\\UserDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Migrations\\UserDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Migrations\\UserDbContextModelSnapshot.cs",
+              "RelativeToolTip": "UserService\\User.Infrastructure\\Migrations\\UserDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:54:08.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251017121347_InitialCreate.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Migrations\\20251017121347_InitialCreate.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Migrations\\20251017121347_InitialCreate.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Migrations\\20251017121347_InitialCreate.cs",
+              "RelativeToolTip": "UserService\\User.Infrastructure\\Migrations\\20251017121347_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:53:39.307Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Authentications\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\Authentications\\JwtTokenGenerator.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\Authentications\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "UserService\\User.Infrastructure\\Authentications\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T07:24:31.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.API.csproj",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\User.API.csproj",
+              "RelativeDocumentMoniker": "UserService\\User.API\\User.API.csproj",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\User.API.csproj",
+              "RelativeToolTip": "UserService\\User.API\\User.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T07:07:49.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\User.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UserService\\User.Infrastructure\\User.Infrastructure.csproj",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Infrastructure\\User.Infrastructure.csproj",
+              "RelativeToolTip": "UserService\\User.Infrastructure\\User.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T09:27:16.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "UserService\\User.Application\\DTOs\\RoleDTO.cs",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.Application\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "UserService\\User.Application\\DTOs\\RoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:39:24.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIService\\APIGateway\\ocelot.json",
+              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "APIService\\APIGateway\\ocelot.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T06:43:47.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "profile.arm.json",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Properties\\ServiceDependencies\\UserServiceAPICuongPC - Zip Deploy\\profile.arm.json",
               "RelativeDocumentMoniker": "UserService\\User.API\\Properties\\ServiceDependencies\\UserServiceAPICuongPC - Zip Deploy\\profile.arm.json",
@@ -521,12 +517,11 @@
               "RelativeToolTip": "UserService\\User.API\\Properties\\ServiceDependencies\\UserServiceAPICuongPC - Zip Deploy\\profile.arm.json",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T07:21:49.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T07:21:49.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UserService\\User.API\\Controllers\\UserController.cs",
@@ -538,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "APIService\\APIGateway\\Properties\\launchSettings.json",
@@ -550,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\appsettings.json",
               "RelativeDocumentMoniker": "APIService\\APIGateway\\appsettings.json",
@@ -562,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\docker-compose.yml",
               "RelativeDocumentMoniker": "UserService\\docker-compose.yml",
@@ -574,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\appsettings.Development.json",
               "RelativeDocumentMoniker": "APIService\\APIGateway\\appsettings.Development.json",
@@ -586,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "APIGateway.http",
               "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\APIService\\APIGateway\\APIGateway.http",
               "RelativeDocumentMoniker": "APIService\\APIGateway\\APIGateway.http",
@@ -607,18 +602,6 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAEwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-10-21T03:46:19.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HealthController.cs",
-              "DocumentMoniker": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\HealthController.cs",
-              "RelativeDocumentMoniker": "UserService\\User.API\\Controllers\\HealthController.cs",
-              "ToolTip": "E:\\FPT_University_PRM392\\Project\\BackEnd\\Electric_Vehicle_Management\\UserService\\User.API\\Controllers\\HealthController.cs",
-              "RelativeToolTip": "UserService\\User.API\\Controllers\\HealthController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T07:21:45.682Z"
             }
           ]
         }

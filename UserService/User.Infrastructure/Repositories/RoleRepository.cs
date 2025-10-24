@@ -13,17 +13,24 @@ namespace User.Infrastructure.Repositories
     public class RoleRepository : IRoleRepository
     {
         private readonly UserDbContext _context;
+
         public RoleRepository(UserDbContext context)
         {
             _context = context;
         }
+
         public async Task<Role?> GetRoleByNameAsync(string roleName)
         {
-            //throw new NotImplementedException();
             return await _context.Roles.FirstOrDefaultAsync(r => r.Name == roleName);
-
         }
-
-      
+        public async Task AddAsync(Role role)
+        {
+            await _context.Roles.AddAsync(role);
+        }
+        public async Task<bool> RoleExistsAsync(string roleName)
+        {
+            return await _context.Roles.AnyAsync(r => r.Name == roleName);
+        }
+        
     }
 }

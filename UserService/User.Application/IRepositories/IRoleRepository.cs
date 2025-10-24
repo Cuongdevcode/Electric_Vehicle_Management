@@ -10,5 +10,7 @@ namespace User.Application.IRepositories
     public interface IRoleRepository
     {
         Task<Role?> GetRoleByNameAsync(string roleName);
+        Task AddAsync(Role role);
+        Task<bool> RoleExistsAsync(string roleName);
     }
 }

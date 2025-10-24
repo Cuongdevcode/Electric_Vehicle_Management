@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 
 namespace User.Application.DTOs
 {
-    public class AuthDTOs
-    {
+   
 
         public class RegisterDto
         {
@@ -42,4 +41,3 @@ namespace User.Application.DTOs
             public string Token { get; set; }
         }
     }
-}

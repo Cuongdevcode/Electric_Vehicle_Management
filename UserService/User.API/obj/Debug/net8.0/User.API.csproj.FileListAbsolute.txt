@@ -152,8 +152,8 @@ E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\User.API\ob
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\User.API\obj\Debug\net8.0\User.API.genruntimeconfig.cache
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\User.API\obj\Debug\net8.0\ref\User.API.dll
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\appsettings.Development.json
-E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\User.API.staticwebassets.endpoints.json
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\appsettings.json
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\User.API.staticwebassets.endpoints.json
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\User.API.exe
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\User.API.deps.json
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\User.API.runtimeconfig.json
@@ -161,7 +161,9 @@ E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\User.API.pdb
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\Azure.Core.dll
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\Humanizer.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -305,6 +307,3 @@ E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\obj\Debug\net8.0\User.API.pdb
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\obj\Debug\net8.0\User.API.genruntimeconfig.cache
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\obj\Debug\net8.0\ref\User.API.dll
-E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
-E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -10,6 +10,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Configuration.AddJsonFile("ocelot.json", optional: false, reloadOnChange: true);
 
+builder.Configuration
+  .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+  .AddJsonFile($"appsettings.Production.json", optional: true) 
+    .AddEnvironmentVariables();
+
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 var serectKey = Encoding.ASCII.GetBytes(jwtSettings["SecretKey"]!);
 
@@ -53,7 +58,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseAuthentication(); 
 app.UseAuthorization();
@@ -61,6 +66,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 
-await app.UseOcelot(); //cai nay chay cuoi cung
+await app.UseOcelot(); 
 
 app.Run();

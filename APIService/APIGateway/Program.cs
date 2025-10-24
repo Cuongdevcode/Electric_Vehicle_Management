@@ -10,6 +10,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Configuration.AddJsonFile("ocelot.json", optional: false, reloadOnChange: true);
 
+builder.Configuration
+  .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+  .AddJsonFile($"appsettings.Production.json", optional: true) 
+    .AddEnvironmentVariables();
+
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 var serectKey = Encoding.ASCII.GetBytes(jwtSettings["SecretKey"]!);
 

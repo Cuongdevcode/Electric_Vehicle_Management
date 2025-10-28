@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
-using User.Domain.Entities;
 
 namespace User.API.Controllers
 {
@@ -14,21 +12,17 @@ namespace User.API.Controllers
         [Authorize]
         public IActionResult GetProfile()
         {
-            var fullName = User.FindFirstValue(ClaimTypes.Name);
-            var email = User.FindFirstValue(ClaimTypes.Email);
-            var rlole = User.FindFirstValue(ClaimTypes.Role);
+            var fullName = User.FindFirstValue(ClaimTypes.Name) ?? string.Empty;
+            var email = User.FindFirstValue(ClaimTypes.Email) ?? string.Empty;
+            var role = User.FindFirstValue(ClaimTypes.Role) ?? string.Empty;
 
-            return Ok(
-                new
-                {
-                    Message = "Bạn đã qua vòng đăng nhâpj hẹ hẹ hẹ",
-                    Name = fullName,
-                    Email = email,
-                    Role = rlole
-                }
-                );
-
-
+            return Ok(new
+            {
+                Message = "Bạn đã qua vòng đăng nhập",
+                Name = fullName,
+                Email = email,
+                Role = role
+            });
         }
 
         [HttpGet("admin-only")]
@@ -37,7 +31,5 @@ namespace User.API.Controllers
         {
             return Ok("Admin Page");
         }
-
-
     }
 }

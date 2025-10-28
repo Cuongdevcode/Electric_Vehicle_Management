@@ -50,6 +50,7 @@ namespace User.Application.Services.Implements
                 Email = request.Email,
                 Password = passwordHash,
                 RoleId = defaultRole.Id,
+                Fullname = request.FullName,
                 IsActive = true
             };
 
@@ -79,7 +80,7 @@ namespace User.Application.Services.Implements
             {
                 UserId = user.Id,
                 Email = user.Email,
-                Role = user.Role.Name, // Lấy tên Role
+                Role = user.Role.Name, 
                 Token = token
             };
         }

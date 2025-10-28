@@ -20,4 +20,8 @@
     <ProjectReference Include="..\User.Application\User.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Persistences\" />
+  </ItemGroup>
+
 </Project>

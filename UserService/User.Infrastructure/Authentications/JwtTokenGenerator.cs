@@ -1,19 +1,14 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
 using User.Application.Interfaces;
 
 namespace User.Infrastructure.Authentications
 {
     public class JwtTokenGenerator : IJwtTokenGenerator
     {
-
         private readonly IConfiguration _configuration;
 
         public JwtTokenGenerator(IConfiguration configuration)
@@ -21,38 +16,47 @@ namespace User.Infrastructure.Authentications
             _configuration = configuration;
         }
 
-        public string GenerateToken(Domain.Entities.User user)
+        public string GenerateToken(User.Domain.Entities.User user)
         {
-            // Implement JWT token generation logic here
-            // This is a placeholder implementation
+            var jwt = _configuration.GetRequiredSection("JwtSettings");
+            var secret = jwt.GetValue<string>("SecretKey");
+            var issuer = jwt.GetValue<string>("Issuer");
+            var audience = jwt.GetValue<string>("Audience");
 
-                        var jwtSettings = _configuration.GetSection("JwtSettings");
-            var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["SecretKey"]));
+            if (string.IsNullOrWhiteSpace(secret))
+                throw new InvalidOperationException("Missing JwtSettings:SecretKey");
 
-            //claim tt trong token muon luu
+            var secretKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secret!));
 
             var claims = new List<Claim>
-            {
-                new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
-                new Claim(JwtRegisteredClaimNames.Email,  user.Email),
-                new Claim(ClaimTypes.Role, user.Role.Name),
-               // new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
-            };
+                {
+                    new Claim(JwtRegisteredClaimNames.Sub, user.Id.ToString()),
+                    new Claim(JwtRegisteredClaimNames.Email, user.Email),
+                    new Claim(ClaimTypes.Email, user.Email),
+                    new Claim(ClaimTypes.Role, user.Role?.Name ?? string.Empty),
+                    new Claim(ClaimTypes.Name, user.Fullname ?? string.Empty),
+                };
 
             var creds = new SigningCredentials(secretKey, SecurityAlgorithms.HmacSha256);
 
-            var expiration = DateTime.UtcNow.AddMinutes(double.Parse(jwtSettings["ExpiryInMinutes"]));
+            // Support ExpiryInMinutes or ExpireDays; default 60 minutes
+            DateTime expiresAt;
+            var minutes = jwt.GetValue<int?>("ExpiryInMinutes");
+            var days = jwt.GetValue<int?>("ExpireDays");
+            if (minutes.HasValue && minutes.Value > 0)
+                expiresAt = DateTime.UtcNow.AddMinutes(minutes.Value);
+            else if (days.HasValue && days.Value > 0)
+                expiresAt = DateTime.UtcNow.AddDays(days.Value);
+            else
+                expiresAt = DateTime.UtcNow.AddHours(1);
 
             var token = new JwtSecurityToken(
-                issuer: jwtSettings["Issuer"],
-                audience: jwtSettings["Audience"],
+                issuer: issuer,
+                audience: audience,
                 claims: claims,
-                expires: expiration,
+                expires: expiresAt,
                 signingCredentials: creds
             );
-
-
-
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }

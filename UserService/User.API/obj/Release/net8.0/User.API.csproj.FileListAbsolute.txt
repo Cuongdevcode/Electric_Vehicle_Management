@@ -155,3 +155,4 @@ E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\obj\Release\net8.0\User.API.pdb
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\obj\Release\net8.0\User.API.genruntimeconfig.cache
 E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\obj\Release\net8.0\ref\User.API.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\UserService\User.API\bin\Release\net8.0\appsettings.Production.json

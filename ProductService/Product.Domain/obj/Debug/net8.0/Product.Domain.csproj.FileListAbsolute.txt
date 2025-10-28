@@ -1,0 +1,15 @@
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\bin\Debug\net8.0\Product.Domain.deps.json
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\bin\Debug\net8.0\Product.Domain.runtimeconfig.json
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\bin\Debug\net8.0\Product.Domain.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\bin\Debug\net8.0\Product.Domain.pdb
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.csproj.AssemblyReference.cache
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfoInputs.cache
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.AssemblyInfo.cs
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.csproj.CoreCompileInputs.cache
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.sourcelink.json
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\refint\Product.Domain.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.pdb
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\Product.Domain.genruntimeconfig.cache
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Domain\obj\Debug\net8.0\ref\Product.Domain.dll

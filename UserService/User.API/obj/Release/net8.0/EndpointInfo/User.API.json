@@ -67,6 +67,42 @@
         }
       }
     },
+    "/api/auth/header": {
+      "get": {
+        "tags": [
+          "AuthDebug"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/auth/check": {
+      "get": {
+        "tags": [
+          "AuthDebug"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/auth/whoami": {
+      "get": {
+        "tags": [
+          "AuthDebug"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Health/dbcheck": {
       "get": {
         "tags": [
@@ -198,13 +234,15 @@
     "securitySchemes": {
       "Bearer": {
         "type": "http",
-        "description": "Enter 'Bearer {token}'",
+        "description": "Nhập JWT token (không cần gõ 'Bearer'). Ví dụ: eyJhbGc...",
         "scheme": "bearer",
         "bearerFormat": "JWT"
       }
     }
   },
   "security": [
-    { }
+    {
+      "Bearer": [ ]
+    }
   ]
 }

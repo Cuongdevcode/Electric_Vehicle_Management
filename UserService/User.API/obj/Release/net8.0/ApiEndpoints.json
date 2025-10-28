@@ -1,5 +1,25 @@
 [
   {
+    "ContainingType": "User.API.Controllers.AuthDebugController",
+    "Method": "Check",
+    "RelativePath": "api/auth/check",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User.API.Controllers.AuthDebugController",
+    "Method": "Header",
+    "RelativePath": "api/auth/header",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "User.API.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
@@ -29,6 +49,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "User.API.Controllers.AuthDebugController",
+    "Method": "WhoAmI",
+    "RelativePath": "api/auth/whoami",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

@@ -1,0 +1,16 @@
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\bin\Release\net8.0\Product.Application.deps.json
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\bin\Release\net8.0\Product.Application.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\bin\Release\net8.0\Product.Application.pdb
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\bin\Release\net8.0\Product.Domain.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\bin\Release\net8.0\Product.Domain.pdb
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product.Application.csproj.AssemblyReference.cache
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product.Application.AssemblyInfoInputs.cache
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product.Application.AssemblyInfo.cs
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product.Application.csproj.CoreCompileInputs.cache
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product.Application.sourcelink.json
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product..7E280BC3.Up2Date
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product.Application.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\refint\Product.Application.dll
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\Product.Application.pdb
+E:\FPT_University_PRM392\Project\BackEnd\Electric_Vehicle_Management\ProductService\Product.Application\obj\Release\net8.0\ref\Product.Application.dll

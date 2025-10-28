@@ -1,0 +1,6 @@
+APIService/APIGateway/bin/Release/net8.0/appsettings.Development.json
+APIService/APIGateway/bin/Release/net8.0/appsettings.json
+UserService/User.API/appsettings.Development.json
+UserService/User.API/bin/Debug/net8.0/appsettings.Development.json
+UserService/User.API/bin/Release/net8.0/appsettings.Development.json
+UserService/User.API/obj/Release/net8.0/PubTmp/Out/appsettings.Development.json
